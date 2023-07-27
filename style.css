@@ -1,0 +1,150 @@
+.body{
+    position: relative;
+    top: auto;
+    left: 8.1px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    border: 1px solid black;
+    position: absolute;
+    top: 23%;
+    left: .01%;
+    gap: 10px;
+    width: 1325px;
+}
+.box-1{
+    margin-top: 20px;
+    flex: 1;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    height: 140px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.box-1 img{
+    float: right;
+    border-radius: 70px;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.box-1 p{
+    margin: 40px;
+    float: left;
+    font-size: 15pt;
+}
+.box-2{
+    margin-top: 20px;
+    flex: 1;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    height: 140px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.box-2 img{
+    float: right;
+    border-radius: 70px;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.box-2 p{
+    margin: 35px;
+    float: left;
+    font-size: 15pt;
+}
+.box-3{
+    margin-top: 20px;
+    flex: 1;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    height: 140px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.box-3 img{
+    float: right;
+    border-radius: 70px;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.box-3 p{
+    margin: 35px;
+    float: left;
+    font-size: 15pt;
+}
+.box-4{
+    flex: 1;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    height: 140px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.box-4 img{
+    float: right;
+    border-radius: 70px;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.box-4 p{
+    margin: 40px;
+    float: left;
+    font-size: 15pt;
+}
+.box-5{
+    flex: 1;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    height: 140px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.box-5 img{
+    float: right;
+    border-radius: 70px;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.box-5 p{
+    margin: 34.46px;
+    float: left;
+    font-size: 15pt;
+}
+.box-6{
+    flex: 1;
+    border: 1px solid red;
+    border-radius: 20px;
+    padding: 10px;
+    height: 140px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+.box-6 img{
+    float: right;
+    border-radius: 70px;
+    height: 140px;
+    width: 140px;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.box-6 p{
+    margin: 40px;
+    float: left;
+    font-size: 15pt;
+}
